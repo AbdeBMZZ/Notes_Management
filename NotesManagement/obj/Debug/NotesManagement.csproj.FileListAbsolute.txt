@@ -1,0 +1,10 @@
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\bin\Debug\NotesManagement.exe.config
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\bin\Debug\NotesManagement.exe
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\bin\Debug\NotesManagement.pdb
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\obj\Debug\NotesManagement.Form1.resources
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\obj\Debug\NotesManagement.Properties.Resources.resources
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\obj\Debug\NotesManagement.csproj.GenerateResource.cache
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\obj\Debug\NotesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\obj\Debug\NotesManagement.exe
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\obj\Debug\NotesManagement.pdb
+C:\Users\Abdellah\Desktop\workspace\NotesManagement_CSharp\NotesManagement\obj\Debug\NotesManagement.csproj.AssemblyReference.cache
